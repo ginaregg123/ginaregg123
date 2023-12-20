@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I’m Reggina Indriani Putri  Suwarsono!</h1>
 <h3 align="center"> Data Analyst Enthusiast | Data Science Enthusiast</h3>
 
-<p>🎓 I'm an Information Systems student with a passion for technology and data. I'm on a journey to explore data analysis, programming, and the latest tech trends. I believe data insights are powerful tools for decision-making. </p>
+<p>🎓 I'm an Information Systems student with a passion for technology and data. I'm on a journey to explore data analysis, data science, and the latest tech trends. I believe data insights are powerful tools for decision-making. </p>
 
 - 🌱 Currently, I'm learning and working on projects in the data analyst,data science,and machine learning.
 
-- 📫 reach me at **regginaindriani54@gmail.com**
+- 📫 Reach me at **regginaindriani54@gmail.com**
 
 - ⚡ Fun fact **Night Owl Analyst**
 
